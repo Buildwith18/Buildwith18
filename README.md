@@ -45,10 +45,4 @@
 ## Connect
 
 - GitHub: `https://github.com/Buildwith18`  
-- LinkedIn: `https://linkedin.com/in/your-linkedin-handle`
-
----
-
-*Notes:*  
-- This README is designed to be professional and concise.  
-- Project names shown here are descriptive only (no direct links to private repos).  
+- Gmail: 'buildwith.18@gmail.com'
