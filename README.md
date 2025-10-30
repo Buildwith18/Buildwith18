@@ -26,22 +26,6 @@
 
 ---
 
-## Projects
-
-- <div align="justify">**AI Agent for OCR** – Multilingual extraction pipeline for images & PDFs; focus on accuracy, preprocessing, and exportable results.</div>  
-- <div align="justify">**Expense Tracker** – Full-stack app for daily expense management with authentication, CRUD operations, and basic analytics.</div>  
-- <div align="justify">**GemAI-Chatbot** – Conversational AI prototype using a modern LLM interface and a FastAPI backend for integrations and routing.</div>
-
----
-
-## Achievements & Highlights
-
-- <div align="justify">Awarded an SSIP grant for a team Performance Evaluation project.</div>  
-- <div align="justify">Completed Deloitte Forage Technology simulation (practical software tasks & case work).</div>  
-- <div align="justify">KCG Soft Skill Development training and coordination experience.</div>
-
----
-
 ## Connect
 
 - GitHub: `https://github.com/Buildwith18`  
