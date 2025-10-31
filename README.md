@@ -1,6 +1,6 @@
 # Buildwith18
 
-<div align="center">
+<div align="left">
   <strong>Software Developer | Applied AI & Full-Stack Solutions</strong>
   
 </div>
@@ -34,8 +34,6 @@
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge">
   </a>
 
-<br><br>
-
   <p><strong>Frameworks & Libraries</strong></p>
   <a href="https://react.dev/" target="_blank">
     <img alt="React 18" src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=000000&style=for-the-badge">
@@ -49,8 +47,6 @@
   <a href="https://github.com/tesseract-ocr/tesseract" target="_blank">
     <img alt="Tesseract OCR" src="https://img.shields.io/badge/Tesseract%20OCR-000000?style=for-the-badge">
   </a>
-
-<br><br>
 
   <p><strong>Databases & Tools</strong></p>
 
