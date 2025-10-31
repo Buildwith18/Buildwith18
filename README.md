@@ -18,7 +18,7 @@
 
 ## Languages & Tools
 
-<div align="center">
+<div align="left">
   <p><strong>Languages</strong></p>
 
   <a href="https://www.python.org/" target="_blank">
