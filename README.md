@@ -19,7 +19,6 @@
 ## Languages & Tools
 
 <div align="center">
-
   <p><strong>Languages</strong></p>
 
   <a href="https://www.python.org/" target="_blank">
@@ -38,7 +37,6 @@
 <br><br>
 
   <p><strong>Frameworks & Libraries</strong></p>
-
   <a href="https://react.dev/" target="_blank">
     <img alt="React 18" src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=000000&style=for-the-badge">
   </a>
