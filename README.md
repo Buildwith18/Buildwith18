@@ -18,33 +18,61 @@
 
 ## Languages & Tools
 
-**Languages**
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" height="22" />
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" height="22" />
-  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5" alt="HTML5" height="22" />
-  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3" alt="CSS3" height="22" />
-</p>
+  <p><strong>Languages</strong></p>
 
-**Frameworks & Libraries**
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python 3.13" src="https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=000000&style=for-the-badge">
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge">
+  </a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" alt="React" height="22" />
-  <img src="https://img.shields.io/badge/-Django-green?style=flat-square&logo=django" alt="Django" height="22" />
-  <img src="https://img.shields.io/badge/-FastAPI-blue?style=flat-square&logo=fastapi" alt="FastAPI" height="22" />
-  <img src="https://img.shields.io/badge/-Tesseract-black?style=flat-square" alt="Tesseract OCR" height="22" />
-</p>
+<br><br>
 
-**Databases & Tools**
+  <p><strong>Frameworks & Libraries</strong></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql" alt="MySQL" height="22" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" height="22" />
-  <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker" alt="Docker" height="22" />
-  <img src="https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman" alt="Postman" height="22" />
-  <img src="https://img.shields.io/badge/-VS%20Code-0078d7?style=flat-square&logo=visual-studio-code" alt="VS Code" height="22" />
-</p>
+  <a href="https://react.dev/" target="_blank">
+    <img alt="React 18" src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=000000&style=for-the-badge">
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img alt="Django 4.2" src="https://img.shields.io/badge/Django-4.2-092E20?logo=django&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img alt="FastAPI 0.110" src="https://img.shields.io/badge/FastAPI-0.110-009688?logo=fastapi&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://github.com/tesseract-ocr/tesseract" target="_blank">
+    <img alt="Tesseract OCR" src="https://img.shields.io/badge/Tesseract%20OCR-000000?style=for-the-badge">
+  </a>
+
+<br><br>
+
+  <p><strong>Databases & Tools</strong></p>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge">
+  </a>
+
+</div>
 
 ---
 
